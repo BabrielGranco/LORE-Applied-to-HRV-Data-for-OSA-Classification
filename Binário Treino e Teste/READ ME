@@ -1,0 +1,6 @@
+Aqui estão os resultados obtidos para um modelo Floresta Aleatória treinado com conjuntos de treinamento de teste, realizando a tarefa de classificação binária indicando a presença ou ausência de AOS utilizando os dados de VFC.
+Aqui as explicações são geradas sobre o conjunto de treinamento e o procedimento visa interpretar as decisões da FA ao classificar instâncias novas não vistas anteriormente no treinamento simulando uma situação real
+na qual um paciente nunca antes visto solicita a explicação de seu diagnóstico de AOS. Dentre os resultados temos uma tabela com a contagem de atributos mais frequentes nos erros e nos acertos do modelo 
+e temos o código em Python usado para gerar os resultados, dentro do código temos várias análises interessantes feitas sobre os resultados, assim como o conjunto de regras geradas para todos os exemplos.
+
+Estes resultados foram obtidos com a versão do LORE implementada em Python na bíbliotecaXAI-Library.
