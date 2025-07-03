@@ -2,3 +2,5 @@ Aqui estão os resultados obtidos para um modelo Floresta Aleatória treinado co
 Aqui as explicações são geradas sobre o conjunto de treinamento, o procedimento visa interpretar as decisões da FA ao classificar instâncias novas não vistas anteriormente no treinamento simulando uma situação real
 na qual um paciente nunca antes visto solicita a explicação de seu diagnóstico de AOS. Dentre os resultados temos uma tabela com todas as explicações obtidas, assim como uma tabela com a contagem de atributos 
 mais frequentes nos erros e nos acertos do modelo, por fim, temos o código em Python usado para gerar os resultados, dentro do código temos várias analises interessantes feitas sobre os resultados.
+
+Estes resultados foram obtidos com a versão do LORE implementada em Python na bíbliotecaXAI-Library.
