@@ -1,0 +1,13 @@
+Arquivo,Classe_Real,Classe_Prevista,VLFABS_Real,VLFABS_1_Operador,VLFABS_1_Valor,VLFABS_2_Operador,VLFABS_2_Valor,VLFABS_5_Operador,VLFABS_5_Valor,VLFABS_3_Operador,VLFABS_3_Valor
+explicacao_104.txt,1,0,1501.219,>,901.4815673828124,,,,,,
+explicacao_126.txt,2,0,209.6015,<=,928.5071716308594,>,170.5537109375,,,,
+explicacao_153.txt,2,0,507.2266,<=,948.837371826172,>,109.96754837036131,,,,
+explicacao_168.txt,2,1,60.6448,<=,971.6700134277344,,,,,,
+explicacao_178.txt,2,0,3456.6542,,,>,934.8944702148438,,,,
+explicacao_225.txt,0,2,580.5907,,,,,<=,1496.9096069335938,,
+explicacao_245.txt,0,3,676.0066,<=,971.6700134277344,,,,,,
+explicacao_246.txt,0,2,162.045,<=,928.5071716308594,,,,,,
+explicacao_45.txt,3,2,427.9893,<=,958.6900329589844,>,-786.9307861328125,,,,
+explicacao_5.txt,3,1,49.5384,,,,,,,<=,958.6900329589844
+explicacao_63.txt,1,2,467.6652,<=,922.753387451172,>,-1506.2343139648438,,,,
+explicacao_7.txt,3,2,437.7981,<=,971.6700134277344,,,,,,
