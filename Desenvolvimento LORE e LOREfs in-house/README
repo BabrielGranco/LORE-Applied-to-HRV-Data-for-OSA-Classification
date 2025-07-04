@@ -1,0 +1,6 @@
+Aqui temos todas as etapas do desenvolvimento do algoritmo assim como testes para assegurar que suas diferentes partes estão funcionais.   
+Versão 1 - A primeira versão tinha todos os operadores genéticos funcionais, entretanto cometi um erro no processo de selecionar o indivíduo inicial, em vez de selecionar apenas um indivíduo aleatóriamente e reproduzir as instâncias baseadas nele acabei
+selecionando um indíviduo por iteração de forma que os dados finais eram completamente dispersos e não representavam corretamente as fronteiras de decisão locais do algoritmo black-box.
+Versão 2 - A segunda versão corrige a seleção do indivíduo inicial e adiciona posteriormente a NSED na função de distância, uma função de distância mais robusta que a norma euclidiana usada na versão 1 e que acabava causando erros em indivíduos mais disantes da fronteira
+de decisão. Nesta versão o AG já funcionava bem e era capaz de gerar corretamente os dados artificiais na vizinhança do indivíduos sendo explicado.
+Versão 3 - Nesta versão as funções de evolução genética foram otimizadas, por exemplo adicionou-se um parâmetro de clipping na mutação, implementou-se o fitness sharing, alterou-se a função de crossover, dentre outras coisas.
