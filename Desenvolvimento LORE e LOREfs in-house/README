@@ -6,4 +6,4 @@ fronteira de decisão. Nesta versão o AG já funcionava bem e era capaz de gera
 Versão 3 - Nesta versão as funções de evolução genética foram otimizadas, por exemplo adicionou-se um parâmetro de clipping na mutação, implementou-se o fitness sharing, alterou-se a função de crossover, dentre outras coisas.
 Versão 4 - Na quarta versão, finalmente implementou-se a função que treina a ávores de decisão nos dados artificiais e posteriormente extrai as regras usadas para gerar a explicação nas amostras. Também foram feitos diversos testes para verificar 
 o correto funcionamento do algoritmo como um todo, dentro de cada deste pequenas alterações e ajustes foram feitos.
-Versão 5 - 
+Versão 5 - Nesta versão foram feitas alterações no código para que ele pudesse lidar corretamente com os dados de VFC (as outras versões estavam sendo testadas no dataset IRIS que tem atributos bastante simples).
